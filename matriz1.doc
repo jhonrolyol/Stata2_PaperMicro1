@@ -1,0 +1,21 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx3744\clbrdrt\brdrs\cellx5184
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3744\cellx5184
+\ql \cell\qc matrix1\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3744\cellx5184
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx3744\clbrdrb\brdrs\cellx5184
+\ql VARIABLES\cell\qc Mean\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3744\cellx5184
+\ql \cell\qc \cell\row
+\ql c.varven_porc@0bn.estado1\cell\qc -82.44***\cell\row
+\ql \cell\qc (4.576)\cell\row
+\ql c.varven_porc@1.estado1\cell\qc -53.33***\cell\row
+\ql \cell\qc (5.603)\cell\row
+\ql \cell\qc \cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx3744\clbrdrb\brdrs\cellx5184
+\ql Observations\cell\qc 629\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

@@ -1,0 +1,16 @@
+	(1)
+	matrix2
+VARIABLES	Ratio
+	
+p11	0.358***
+	(0.108)
+p12	0.577***
+	(0.0583)
+p21	0.642***
+	(0.108)
+p22	0.423***
+	(0.0583)
+	
+Observations	877
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

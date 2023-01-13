@@ -1,0 +1,12 @@
+	(1)
+	matrix1
+VARIABLES	Mean
+	
+c.varven_porc@0bn.estado1	-82.44***
+	(4.576)
+c.varven_porc@1.estado1	-53.33***
+	(5.603)
+	
+Observations	629
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
